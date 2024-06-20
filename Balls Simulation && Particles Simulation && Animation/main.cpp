@@ -44,7 +44,7 @@ int main(){
             }
         } while(mode != 1 && mode != 2);
 
-        RenderWindow window(VideoMode(WIDTH, HEIGHT), "Ball Test");
+        RenderWindow window(VideoMode(WIDTH, HEIGHT), "Simulation & Animation App");
         window.setVerticalSyncEnabled(true);
         window.setFramerateLimit(60);
 
