@@ -31,7 +31,7 @@ Add execute permission by this command : `chmod +x prog` and use this command : 
 ![2](https://github.com/khirobenn/Simulations/assets/126425282/1ac22517-90ac-4145-9749-f6317ac6a996)
 
 ### 3. Window :
-After choosing the mode a window will open.
+After choosing the mode a window will open up.
 ![3](https://github.com/khirobenn/Simulations/assets/126425282/7bb6341b-7926-4b4c-8473-16202b527e54)
 
 ### Now, you can add balls by the mouse left click in the screen.
