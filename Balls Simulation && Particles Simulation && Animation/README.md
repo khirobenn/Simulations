@@ -1,5 +1,4 @@
 # Balls Simulation & Particles Simulation & Animation
-
 ## 1. Ball Simulation :
 - I used [verlet integration](https://en.wikipedia.org/wiki/Verlet_integration) to calculate the position of the ball each time.
 - For collision detection, I used [Quadtree](https://en.wikipedia.org/wiki/Quadtree) to have a complexity of `nlog(n)`.
@@ -19,7 +18,7 @@
 ## Before starting:
 You will need to install [SFML](https://www.sfml-dev.org/index.php).
 ## 1. How to compile ? :
-I compiled these files in `linux` using `make` command, this command will do all the commands we set in the `Makefile` file. (for windows I don't know you can maybe open the files in Visual Studio and link them)
+I compiled these files in `linux` using `make` command, this command will do all the commands we set in the `Makefile` file.
 ## 2. Running the file :
 Add execute permission by this command : `chmod +x prog` and use this command : `./prog`.
 
