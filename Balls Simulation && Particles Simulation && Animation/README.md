@@ -16,7 +16,7 @@
 
 # How to use ?
 ## Before starting:
-You will need to install [SFML](https://www.sfml-dev.org/index.php).
+You will need to install [SFML](https://www.sfml-dev.org/index.php) using this command `sudo apt-get install libsfml-dev`.
 ## 1. How to compile ? :
 I compiled these files in `linux` using `make` command, this command will do all the commands we set in the `Makefile` file.
 ## 2. Running the file :
